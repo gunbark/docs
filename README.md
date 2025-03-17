@@ -44,6 +44,6 @@ Please add descriptive text for accessibility purposes, not everyone has fully w
 
 ## Privacy
 
-Social media is public is social media is public. Followers-only posts are not secure to a strong standard. DMs are also not secure to a strong standard; admins of the involved instances can still read them. If @[john@mastodon.social](mailto:john@mastodon.social) sends a DM to @[roger@pixelfed.social](mailto:roger@pixelfed.social) then the admins of both mastodon.social and pixelfed.social can read everything.
+Social media is public is social media is public. Followers-only posts are not secure to a strong standard. DMs are also not secure to a strong standard; admins of the involved instances can still read them. If @john@mastodon.social sends a DM to @roger@pixelfed.social then the admins of both mastodon.social and pixelfed.social can read everything.
 
 **If you must talk about private things online, use [Signal](https://signal.org/), not social media of any form.**
