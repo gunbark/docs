@@ -24,7 +24,8 @@ This can be confusing to some, but if you visit pixelfed.social and try to login
 
 ## Your profile
 
-Recommend looking through your profile visibility and privacy settings, and hide your follows/following (Gotosocial pictured):  
+Recommend looking through your profile visibility and privacy settings, and hide your follows/following (Gotosocial pictured):
+
 ![image of gotosocial privacy and visibility checkboxes](https://raw.githubusercontent.com/gunbark/docs/refs/heads/main/profile.png?raw=true)
 
 **Please add a user icon, a description of something you think is relevant in your bio, and ideally an introduction post (tagged with \#introduction). Many folks (including yours truly) do not trust brand-new accounts without context and suspect them of being bots.**
